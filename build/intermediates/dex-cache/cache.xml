@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_d222435975b4a755fb8aac33edc76934ce1e46cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_7078fe1305fb3a01e708df83b6724120d33e5e1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_a17bfb18b970010701e59a42ccca455d35e2fc9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_9a13c8d9d5516883821ab2231925889d316aa1e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_2c890ce3aae6ee7a5f710566a479b5229bebb800\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_df6a6be495381a73d9df04ff665ef71e04a94c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_07de22bfe9241a904866415049a4b3cad8a6d493\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_99d8f0fd441ce242035d98850486c856e679cf65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_5399b135fd5390d950e5d162eefc44b78f77079d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_7b693142c6d2b3b68abbee4d726850a41415e664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_59e4189af7bf95db68916fae81414d55e5ec8e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_f805876843796c71de719eddab316d57fd4f5145\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_97ff0985eceb8f99c9ff2cc7a766eca863c98fe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_5f1b8fe2c621d3ea58bd1bb61c1f88ba6208cd99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_f7d4892c2cb7ec06c6aea240af64dcdf821149e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_4f7cc67ed1e7625a68dc0998236d8edb33b2516d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_f762f1e259a71103077c8331c58fff2581cf9534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_d1557d57c4455454681d8f5257ccde8eb4fb250a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\libs\gcm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c62336e408d6dc3998013f3a4419f1895ad61b6b">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\gcm_46af9c476803fac107115888fb9fcd9219a7efc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_b4ba16e1be488cb1a68250e1624d46483a76e91b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_2ccd0940e757f77b402c24ee8951cdd078d461ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_2d1d8d2741d0f3d3f0faa6d1475209d266af2b13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_2fa0906989d885bcabc5c5c3969990af79c2c08c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_2adeedb51dc3e4ccb9dd4a54af35d1b9dc52354b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8fd9b56a905ed858673acc2a4ddabb6956612b24">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad5f0e3a7b27d5a263194317b1a97d7a8aab16ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\libs\kandy-1.6.244.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9a96d31c44042e2c862bc1115719a67b739facd">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\kandy-1.6.244_52e762e7cc8e24b6baee65bbf21c0b1263619f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_b82060c51d4a6e5ffdbbd97ac320b5d052b8ee53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a50dddeba26d791da6c77e1a7d7d10edc9f8f6a6">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d1a0288833acef54e89681181d0999a4b3f4b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_3abdbce9bd66e2f00fda55266a73d2a038f0cb65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_3c4ee96e1696af1160b868d5a9fc395dd2032b92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_4e1c76c72e0f2a14c20e04305f967450a8b2e91d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_e6b00eccdb724d513d7e31598af7814593e5be20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Henry\Documents\AndroidProjects\kandy-2-sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_b39045d2616bfa7d275a492b8cbce7bdb6d53e99\classes.dex" />
+    </item>
+
+</items>

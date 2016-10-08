@@ -1,0 +1,7 @@
+#Sat Oct 08 14:59:00 PDT 2016
+base.0=C\:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0d1a0288833acef54e89681181d0999a4b3f4b7f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ad5f0e3a7b27d5a263194317b1a97d7a8aab16ba\\classes.dex
+base.1=C\:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ad5f0e3a7b27d5a263194317b1a97d7a8aab16ba
+file.0=C\:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0d1a0288833acef54e89681181d0999a4b3f4b7f\\classes.dex

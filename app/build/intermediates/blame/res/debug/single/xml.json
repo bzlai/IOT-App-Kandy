@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_call_settings.xml",
+        "source": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\src\\main\\res\\xml\\preference_call_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_chat_settings.xml",
+        "source": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\src\\main\\res\\xml\\preference_chat_settings.xml"
+    }
+]

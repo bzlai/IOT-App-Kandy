@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\group_settings.xml",
+        "source": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\src\\main\\res\\menu\\group_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat_menu.xml",
+        "source": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\src\\main\\res\\menu\\chat_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\call_menu.xml",
+        "source": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\src\\main\\res\\menu\\call_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\api_settings_menu.xml",
+        "source": "C:\\Users\\Henry\\Documents\\AndroidProjects\\kandy-2-sample\\app\\src\\main\\res\\menu\\api_settings_menu.xml"
+    }
+]
